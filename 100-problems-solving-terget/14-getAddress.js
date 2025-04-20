@@ -12,5 +12,5 @@ const business = {
   name: "100 Functions ltd.",
 };
 
-console.log(business);
+console.log(getBusinessAddress(business));
 
