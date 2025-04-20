@@ -10,3 +10,5 @@ const lastNumberRevert = (text, number) => {
 
   return lastN.split("").reverse().join("");
 };
+
+console.log(lastNumberRevert("Shahidullah", 3));
