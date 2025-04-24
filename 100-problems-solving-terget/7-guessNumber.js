@@ -3,11 +3,10 @@ const guessNumber = (gnum) => {
 
   console.log(num);
 
-
   if (gnum == num) {
     console.log("Matched");
   } else {
     console.log("Not matched, the number was", +gnum);
   }
 };
-guessNumber(8)
+guessNumber(8);
