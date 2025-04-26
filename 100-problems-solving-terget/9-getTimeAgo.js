@@ -29,4 +29,3 @@ const getTimeAgo = (timestamp) => {
     return "Just now";
   }
 };
-
