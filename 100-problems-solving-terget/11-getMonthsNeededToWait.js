@@ -10,3 +10,5 @@ const getMonthsNeededToWait = (month1, month2) => {
   const monthNeedToWait = 12 - month1;
   return monthNeedToWait + month2;
 };
+
+console.log(getMonthsNeededToWait(3, 5));
