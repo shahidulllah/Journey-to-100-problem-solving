@@ -15,3 +15,6 @@ function Person(name, age, phone) {
 }
 
 const person1 = new Person("Ali", 12, "63545+");
+
+
+
