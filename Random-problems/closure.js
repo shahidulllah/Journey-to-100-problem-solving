@@ -8,6 +8,7 @@ function closure(value2) {
     console.log("Outer value:", value);
     console.log("Inside value:", value3);
   }
+  
   return insideFunc();
 }
 
