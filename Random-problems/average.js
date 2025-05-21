@@ -7,16 +7,15 @@ function average1(arr) {
   return sum / arr.length;
 }
 
-
 console.log(average1(array));
 
 //method 2
 function average2(arr) {
   if (arr.length === 0) return 0;
- let sum = 0;
- for(const num of arr){
-    sum += num
- }
+  let sum = 0;
+  for (const num of arr) {
+    sum += num;
+  }
   return sum / arr.length;
 }
 
