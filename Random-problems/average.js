@@ -1,5 +1,3 @@
-const array = [2, 3, 4, 5];
-
 //method 1
 function average1(arr) {
   if (arr.length === 0) return 0;
@@ -19,4 +17,5 @@ function average2(arr) {
   return sum / arr.length;
 }
 
+const array = [2, 3, 4, 5];
 console.log(average2(array));
