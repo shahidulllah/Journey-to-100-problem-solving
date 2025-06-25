@@ -11,5 +11,3 @@ function closure(value2) {
   
   return insideFunc();
 }
-
-closure("I pass something");

@@ -16,4 +16,4 @@ function average2(arr) {
 }
 
 const array = [2, 3, 4, 5];
-console.log(average2(array));
+
