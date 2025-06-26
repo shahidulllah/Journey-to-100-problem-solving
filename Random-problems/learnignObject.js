@@ -5,7 +5,6 @@ person.name = "Shahidullah";
 person.age = 23;
 person.phone = "01747162648";
 
-// console.log(person);
 
 //Object Constructor function
 function Person(name, age, phone) {
