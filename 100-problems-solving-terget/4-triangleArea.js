@@ -11,4 +11,3 @@ const area = Math.sqrt(s * ((s - side1) * (s - side2) * (s - side3))).toFixed(
   2
 );
 
-console.log(area);
