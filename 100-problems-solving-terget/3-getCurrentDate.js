@@ -17,4 +17,3 @@ if (month < 10) {
 }
 
 today = date + "-" + month + "-" + year;
-console.log(today);
