@@ -5,4 +5,3 @@ function canDriveCar(user, car) {
   return car.engineSize < 1000;
 }
 
-export { canDriveCar };
