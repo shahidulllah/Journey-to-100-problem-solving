@@ -11,4 +11,3 @@ const reversString = (data) => {
 };
 
 const string = "My name is Shahidullah";
-console.log(reversString(string));
