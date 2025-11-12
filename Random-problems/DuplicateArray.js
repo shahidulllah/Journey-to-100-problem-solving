@@ -9,5 +9,3 @@ const newArray = arr.reduce((prev, current) => {
 
   return prev;
 }, []);
-
-console.log(newArray(arr));
