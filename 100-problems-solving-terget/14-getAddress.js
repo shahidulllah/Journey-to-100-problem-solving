@@ -1,5 +1,4 @@
-/**8.getBusinessAddress
-Write a function named getBusinessAddress that receives an Object representing a business as a parameter, and returns a string representation of the it's address. */
+//Write a function named getBusinessAddress that receives an Object representing a business as a parameter, and returns a string representation of the it's address. */
 
 function getBusinessAddress(business) {
   const address = business.address;
