@@ -7,14 +7,3 @@ function last_digit(x, y, z) {
   }
 }
 
-// // Log the result of calling last_digit with the arguments 20, 30, and 400 to the console
-// console.log(last_digit(20, 30, 400));
-
-// // Log the result of calling last_digit with the arguments -20, 30, and 400 to the console
-// console.log(last_digit(-20, 30, 400));
-
-// // Log the result of calling last_digit with the arguments 20, -30, and 400 to the console
-// console.log(last_digit(20, -30, 400));
-
-// // Log the result of calling last_digit with the arguments 20, 30, and -400 to the console
-// console.log(last_digit(20, 30, -400));
