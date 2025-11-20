@@ -1,3 +1,5 @@
+//Write a function where you can show date time with mentioning ago..
+
 const getTimeAgo = (timestamp) => {
   const currentDate = new Date();
   const createdAtDate = new Date(timestamp);
