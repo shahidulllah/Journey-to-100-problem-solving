@@ -1,3 +1,5 @@
+//Average of arrays
+
 //method 1
 function average1(arr) {
   if (arr.length === 0) return 0;
