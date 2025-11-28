@@ -1,4 +1,4 @@
-//Average of arrays
+//Create a function to calculate Average of arrays
 
 //method 1
 function average1(arr) {
@@ -18,4 +18,3 @@ function average2(arr) {
 }
 
 const array = [2, 3, 4, 5];
-
