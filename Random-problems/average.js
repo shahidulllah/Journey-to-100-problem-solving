@@ -1,4 +1,5 @@
 //Create a function to calculate Average of arrays
+
 const array = [2, 3, 4, 5];
 
 //method 1
